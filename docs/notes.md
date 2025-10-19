@@ -9,3 +9,4 @@ Notes and usage details for rag-interview-system.
 - link the usage section
 - link the usage section
 - link the usage section
+- add a note about the defaults

@@ -34,3 +34,4 @@ Notes and usage details for rag-interview-system.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
